@@ -6,7 +6,7 @@ namespace LiliaProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello from Lilia!");
+            Console.WriteLine("Hello frприветom Lilia!");
             Console.WriteLine("Это новый проект");
             
             Console.Write("Введите ваше имя: ");
